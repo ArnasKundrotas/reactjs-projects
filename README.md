@@ -1,4 +1,4 @@
-# React projects dump
+# React projects
 
 React projects dump
 
